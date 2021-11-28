@@ -9,7 +9,7 @@ public class About extends Me {
     boolean amIAnyGood = True;
     byte experience = 2;
     String[] knownLanguages = ["C", "Java", "C++", "Ruby"];
-    String[] miscSkills = ["
+    String[] miscSkills = ["Git", "NodesJS"];
     String favQuote = "Two things awe me most. The starry sky above me and the moral law within me.";
     String favQuoteAuthor = "Immanuel Kant";
     String mostPrizedVirtue = "Endless Patience";
