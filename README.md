@@ -1,6 +1,6 @@
 ```java
 package me.Programmer.Eugene;
-import HumanBeings.EugeneFelix;
+import HumanBeings.TheGoodOnes.EugeneFelix;
 import java.util.HashMap;
 public class About extends Me {
     {
@@ -9,6 +9,10 @@ public class About extends Me {
     boolean amIAnyGood = True;
     byte experience = 2;
     String[] knownLanguages = ["C", "Java", "C++", "Ruby"];
+    String[] miscSkills = ["
+    String favQuote = "Two things awe me most. The starry sky above me and the moral law within me.";
+    String favQuoteAuthor = "Immanuel Kant";
+    String mostPrizedVirtue = "Endless Patience";
     }
 }
 
