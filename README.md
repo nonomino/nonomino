@@ -24,6 +24,11 @@ public class About extends Me {
     }
 }
 ```
+
+<h5> Languages </h5>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix)](https://github.com/anuraghazra/github-readme-stats)
+
 <h5 align="center"><em>Statistics</em></h5>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneFelix)](https://github.com/anuraghazra/github-readme-stats)
