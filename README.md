@@ -1,10 +1,12 @@
 ```java
 package me.Programmer.Eugene;
+
 import HumanBeings.TheGoodOnes.EugeneFelix;
 import java.util.HashMap;
+
 public class About extends Me {
     {
-    public static void main(String args) {
+    public static void main(String args[]) {
     String Name = "Eugene Felix";
     boolean amIAnyGood = True;
     byte experience = 2;
