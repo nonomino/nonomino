@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelix&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelix?label=%40Eugene&style=social"></a>  •
-  <a href="https://github.com/EugeneFelix/README">README</a>
+  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelix&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelix?label=%40Eugene&style=social"></a> •
+  </p>
+
+![GitHub followers](https://img.shields.io/github/followers/EugeneFelix?style=social)
+ 
+<p> <a href="https://github.com/EugeneFelix/README">README</a>
 </p>
 
 ```java
