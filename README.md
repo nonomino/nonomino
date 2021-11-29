@@ -25,7 +25,7 @@ public class About extends Me {
 }
 ```
 
-<h5> Languages </h5>
+<h5 align="center"><em> Languages </em></h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix)](https://github.com/anuraghazra/github-readme-stats)
 
