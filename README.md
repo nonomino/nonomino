@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelix&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelix?label=%40Eugene&style=social"></a>  •
-  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelix&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/EugeneFelix/README">Work README</a> •
-</p>
 ```java
+
 package me.Programmer.Eugene;
 
 import HumanBeings.TheGoodOnes.EugeneFelix;
