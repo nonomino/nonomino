@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=EugeneFelix&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelix?label=%40EugeneFelix&style=social"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
@@ -26,9 +27,9 @@ public class About extends Me {
 ```
 
 <h5 align="center"><em> Languages </em></h5>
+<p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <h5 align="center"><em>Statistics</em></h5>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
