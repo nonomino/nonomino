@@ -27,8 +27,8 @@ public class About extends Me {
 
 <h5 align="center"><em> Languages </em></h5>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h5 align="center"><em>Statistics</em></h5>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
