@@ -32,4 +32,6 @@ public class About extends Me {
 </p>
 <h5 align="center"><em>Statistics</em></h5>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
+</p>
