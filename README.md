@@ -11,6 +11,11 @@ package me.Programmer.Eugene;
 import HumanBeings.TheGoodOnes.EugeneFelix;
 import java.util.HashMap;
 
+public class Me {
+    super();
+    this.Name = Name;
+    this.faveQuite = favQuote;
+}
 public class About extends Me {
     {
     public static void main(String args[]) {
