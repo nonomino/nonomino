@@ -12,6 +12,7 @@ import HumanBeings.TheGoodOnes.EugeneFelix;
 import java.util.HashMap;
 
 public class Me {
+    private String Name, favQuote;
     super();
     this.Name = Name;
     this.faveQuite = favQuote;
