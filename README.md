@@ -15,7 +15,7 @@ public class Me {
     private String Name, favQuote;
     super();
     this.Name = Name;
-    this.faveQuite = favQuote;
+    this.faveQuote = favQuote;
 }
 public class About extends Me {
 
