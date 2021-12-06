@@ -24,7 +24,7 @@ public class About extends Me {
     boolean amIAnyGood = True;
     byte experience = 2;
     String[] knownLanguages = ["C", "Java", "C++", "Ruby"];
-    String[] miscSkills = ["Git", "NodesJS"];
+    String[] miscSkills = ["Rails", "Git", "NodesJS"];
     String website = "https://eugenefelix.github.io/";
     String favQuote = "Two things awe me most. The starry sky above me and the moral law within me.";
     String favQuoteAuthor = "Immanuel Kant";
