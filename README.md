@@ -16,6 +16,13 @@ public class Me {
     super();
     this.Name = Name;
     this.faveQuote = favQuote;
+    static void energize() {
+    Coffe coffee = new Coffee();
+    if(coffee.Empty) {
+        coffee.Refill();
+    } else {
+        coffee.Drink();
+    }
 }
 public class About extends Me {
 
