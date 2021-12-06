@@ -17,7 +17,7 @@ public class Me {
     this.Name = Name;
     this.faveQuote = favQuote;
     static void energize() {
-    Coffe coffee = new Coffee();
+    Coffee coffee = new Coffee();
     if(coffee.Empty) {
         coffee.Refill();
     } else {
