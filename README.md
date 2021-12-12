@@ -16,13 +16,6 @@ public class Me {
     super();
     this.Name = Name;
     this.faveQuote = favQuote;
-    static void energize() {
-    Coffee coffee = new Coffee();
-    if(coffee.Empty) {
-        coffee.Refill();
-    } else {
-        coffee.Drink();
-    }
 }
 public class About extends Me {
 
@@ -30,7 +23,7 @@ public class About extends Me {
     String Name = "Eugene Felix";
     boolean amIAnyGood = True;
     byte experience = 2;
-    String[] knownLanguages = ["C", "Java", "C++", "Ruby"];
+    String[] knownLanguages = ["C", "Java", "C++", "Ruby", "Python", "Haskell", "APL", "Javascript","PHP", "Go", "R"];
     String[] miscSkills = ["Rails", "Git", "NodesJS"];
     String website = "https://eugenefelix.github.io/";
     String favQuote = "Two things awe me most. The starry sky above me and the moral law within me.";
