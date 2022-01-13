@@ -42,4 +42,6 @@ public class About extends Me {
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
 </p>
 
+<h5 align="center"><em> Trophies </em></h5>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
