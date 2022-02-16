@@ -33,7 +33,9 @@ public class About extends Me {
     }
 }
 ```
-
+<p align="center">
+<h2>Things I can do</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"></p>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
 </p>
