@@ -49,3 +49,6 @@ public class About extends Me {
 <h5 align="center"><em> Trophies </em></h5>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!"> </p>
