@@ -39,12 +39,14 @@ public class About extends Me {
 <h5 align="center"><em>Statistics</em></h5>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
+ <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
 </p>
+
+
 
 <h5 align="center"><em> Trophies </em></h5>
 
