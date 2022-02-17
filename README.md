@@ -4,7 +4,7 @@
 <img src="assets/imgs/eugene.gif"></p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=social"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
+  <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=for-the-badge"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EugeneFelix/EugeneFelix?style=for-the-badge">
 </p>
 
@@ -39,10 +39,13 @@ public class About extends Me {
 <h2>Things I can do</h2>
 <h3>Things I love to do</h2>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
+
 <h5 align="center"><em> Languages </em></h5>
-<p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugenefelix&theme=gotham"></img></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
 
 <h5 align="center"><em>Statistics</em></h5>
