@@ -60,4 +60,4 @@ public class About extends Me {
 
 <h5 align="center"><em> Trophies </em></h5>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=gotham"></img></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=onedark"></img></p>
