@@ -54,7 +54,7 @@ public class About extends Me {
 </p>
 
 <h5 align="center"><em> Activity graph </em></h5>
-<p align="center>
+<p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
 </p>
 
