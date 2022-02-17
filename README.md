@@ -1,4 +1,5 @@
-o<p align="center">
+u0_25455@githost ~>
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!;You+have+reached+me--"></p>
 <p align="center">
 <img src="assets/imgs/eugene.gif"></p>
@@ -40,9 +41,10 @@ public class About extends Me {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"></p>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
+<p align="center"><img src="ttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugenefelix&theme=gotham"></img></p>
 </p>
-<h5 align="center"><em>Statistics</em></h5>
 
+<h5 align="center"><em>Statistics</em></h5>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
 </p>
@@ -51,11 +53,11 @@ public class About extends Me {
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
 </p>
 
+<h5 align="center"><em> Activity graph </em></h5>
+<p align="center>
+<img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
+</p>
+
 <h5 align="center"><em> Trophies </em></h5>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-y)
-
-tps://github.com/ryo-ma/github-profile-trophy)
-
