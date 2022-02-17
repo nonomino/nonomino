@@ -39,6 +39,8 @@ public class About extends Me {
 <h2>Things I can do</h2>
 <h3>Things I love to do</h2>
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-lang.org)
+[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
+
 </p>
 
 <h5 align="center"><em> Languages </em></h5>
