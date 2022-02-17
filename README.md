@@ -42,8 +42,8 @@ public class About extends Me {
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
 </p>
-<h5 align="center"><em>Statistics</em></h5>
 
+<h5 align="center"><em>Statistics</em></h5>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
 </p>
@@ -54,7 +54,7 @@ public class About extends Me {
 
 <h5 align="center"><em> Activity graph </em></h5>
 <p align="center>
-<img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham">
+<img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
 </p>
 
 <h5 align="center"><em> Trophies </em></h5>
