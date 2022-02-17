@@ -1,4 +1,5 @@
-o<p align="center">
+u_25455@githost :: 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!;You+have+reached+me--"></p>
 <p align="center">
 <img src="assets/imgs/eugene.gif"></p>
