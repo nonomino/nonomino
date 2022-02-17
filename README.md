@@ -52,6 +52,11 @@ public class About extends Me {
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
 </p>
 
+<h5 align="center"><em> Activity graph </em></h5>
+<p align="center>
+<img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham">
+</p>
+
 <h5 align="center"><em> Trophies </em></h5>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
