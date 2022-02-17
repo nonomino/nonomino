@@ -60,4 +60,4 @@ public class About extends Me {
 
 <h5 align="center"><em> Trophies </em></h5>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=gotham"></img></p>
