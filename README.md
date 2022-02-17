@@ -40,13 +40,13 @@ public class About extends Me {
 <h2>Things I can do</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"></p>
 <h5 align="center"><em> Languages </em></h5>
-<p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
-<p align="center"><img src="ttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugenefelix&theme=gotham"></img></p>
+<p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugenefelix&theme=gotham"></img></p>
 </p>
 
 <h5 align="center"><em>Statistics</em></h5>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=dracula"</img>
+ <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
 </p>
 
 <p align="center">
@@ -60,4 +60,4 @@ public class About extends Me {
 
 <h5 align="center"><em> Trophies </em></h5>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
