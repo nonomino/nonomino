@@ -41,6 +41,7 @@ public class About extends Me {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"></p>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img align  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=dracula"></img>
+<p align="center"><img src="ttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eugenefelix&theme=gotham"></img></p>
 </p>
 
 <h5 align="center"><em>Statistics</em></h5>
