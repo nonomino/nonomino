@@ -1,5 +1,5 @@
-👋<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!;You+have+reached+me--"></p>😄
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!;You+have+reached+me--"></p>
 <p align="center">
 <img src="assets/imgs/eugene.gif"></p>
 <p align="center">
@@ -46,6 +46,7 @@ public class About extends Me {
 
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
+<p align="center"><img src="https://ver-peach.vercel.app/api/index"></p>
 </p>
 
 <h5 align="center"><em>Statistics</em></h5>
