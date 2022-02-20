@@ -47,7 +47,7 @@ public class About extends Me {
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
 
 <details align="center">
-<summary align="center"><h4>My activities around here</h4></summary>
+<summary><h4>My activities around here</h4></summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
