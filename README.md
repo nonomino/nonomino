@@ -1,7 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Greetings%2C+Fellow+human!"></p>
 <p align="center">
+<figure>
 <img src="assets/imgs/banner.jpg"></p>
+<figcaption>My, oh my! My name's up int sky!</figcaption>
+</figure>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=for-the-badge"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
