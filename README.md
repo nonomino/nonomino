@@ -1,4 +1,4 @@
-<style> details {
+<head><style> details {
   width: 50%;
   margin: 0 auto ;
   background: #282828;
@@ -55,7 +55,7 @@ body {
   margin-top: 2rem;
 }
 </style>
-
+</head>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Greetings%2C+Fellow+human!"></p>
