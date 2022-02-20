@@ -50,7 +50,7 @@ public class About extends Me {
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://duolingo.com/eugenefelix)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
-
+<details><Summary><em>More about me...</summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
@@ -68,3 +68,4 @@ public class About extends Me {
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=onedark"></img></p>
 <h3 align="center">What am I reading now?</h3>
 <a href="https://www.goodreads.com/user/show/94156980-eugene"><img src="https://goodreads-status.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
+</details>
