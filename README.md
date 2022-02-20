@@ -48,6 +48,7 @@ public class About extends Me {
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com
 )
+
 </summary>
 </details>
 <h5 align="center"><em> Languages </em></h5>
