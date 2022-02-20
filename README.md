@@ -36,6 +36,11 @@ public class About extends Me {
 }
 ```
 <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
+</p>
+
+
+<p align="center">
 <h2>Things I can do</h2>
 <h3>Things I love to do</h3>
 </p>
@@ -50,14 +55,10 @@ public class About extends Me {
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
 <hr>
-<h5 align="center"><em>Statistics</em></h5>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
-</p>
+<h5 align="center"><em>Statistics & Activity</em></h5>
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
 </p>
-<h5 align="center"><em> Activity graph </em></h5>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
 </p>
