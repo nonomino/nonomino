@@ -7,7 +7,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=for-the-badge"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EugeneFelix/EugeneFelix?style=for-the-badge">
 </p>
-<h2>What Ruby has to say about me...</h2>
+<h2>A Ruby-y About Me...</h2>
 
 ```java
 package me.Programmer.Eugene;
