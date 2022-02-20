@@ -1,4 +1,4 @@
-details {
+<style> details {
   width: 50%;
   margin: 0 auto ;
   background: #282828;
@@ -54,7 +54,7 @@ body {
   letter-spacing: 1px;
   margin-top: 2rem;
 }
-
+</style>
 
 
 <p align="center">
