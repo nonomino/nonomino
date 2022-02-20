@@ -74,4 +74,3 @@ public class About extends Me {
 </details>
 <p align="center">Bored of my "about me"? Here's a quote for you!</p>
 <img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
-</p>
