@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Salutations%2C+Fellow+human!;You+have+reached+me--"></p>
 <p align="center">
-<img src="assets/imgs/eugene.gif"></p>
+<img src="assets/imgs/banner.jpg"></p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=for-the-badge"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
