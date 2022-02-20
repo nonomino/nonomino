@@ -68,3 +68,5 @@ public class About extends Me {
 <h5 align="center"><em> Trophies </em></h5>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=onedark"></img></p>
+<h3 align="center">What am I reading now?</h3>
+<a href="https://www.goodreads.com/user/show/94156980-eugene"><img src="https://goodreads-status.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
