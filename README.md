@@ -2,8 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Greetings%2C+Fellow+human!"></p>
 <p align="center">
 <figure>
-<img src="assets/imgs/banner.jpg"></p>
-<figcaption>My, oh my! My name's up int sky!</figcaption>
+<img src="assets/imgs/banner.jpg"></p><figcaption>My, oh my! My name's up in the sky!</figcaption>
 </figure>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
