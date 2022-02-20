@@ -44,8 +44,8 @@ public class About extends Me {
 
 
 <p align="center">
-<h2>Things I can do</h2>
-<h3>Things I love to do</h3>
+<h2>My Cosmos and Chaos...</h2>
+<h3>Environment</h3>
 </p>
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
@@ -53,6 +53,13 @@ public class About extends Me {
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://duolingo.com/eugenefelix)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
+
+<h3>Web Development</h3>
+
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+
 <details><Summary><em>More about me...</summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
