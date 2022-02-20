@@ -73,4 +73,4 @@ public class About extends Me {
 <a href="https://www.goodreads.com/user/show/94156980-eugene"><img src="https://goodreads-status.vercel.app/api/book" alt="GoodReads reading" width="350" /></a>
 </details>
 <p align="center">Bored of my "about me"? Here's a quote for you!</p>
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
+<img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
