@@ -39,14 +39,15 @@ public class About extends Me {
 <summary>
 <p align="center">
 <h2>Things I can do</h2>
-<h3>Things I love to do</h2>
+<h3>Things I love to do</h3>
 </p>
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://duolingo.com/eugenefelix)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
+[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com
+)
 </summary>
 </details>
 <h5 align="center"><em> Languages </em></h5>
