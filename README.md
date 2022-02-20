@@ -45,25 +45,23 @@ public class About extends Me {
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://duolingo.com/eugenefelix)
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
-|
+
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
-| |
+<hr>
 <h5 align="center"><em>Statistics</em></h5>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
 </p>
-| | --- | --- |
-| <p align="center">
+<p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
 </p>
-|
-| <h5 align="center"><em> Activity graph </em></h5>
+<h5 align="center"><em> Activity graph </em></h5>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
 </p>
-|
+<hr>
 <h5 align="center"><em> Trophies </em></h5>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=onedark"></img></p>
