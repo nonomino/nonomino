@@ -65,7 +65,7 @@ public class About extends Me {
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 
-<details><Summary><em>More about me...</summary>
+<details><Summary><em>More about me...</em></summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
@@ -86,3 +86,5 @@ public class About extends Me {
 </details>
 <h6>Bored of my "about me"? Here's something to pique thy interest!</h6>
 <img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
+<h6>That quote didn't amuse you? How about a comic?</h6>
+<img style="align:center;" src="https://xkcd-today.vercel.app"></img>
