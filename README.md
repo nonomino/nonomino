@@ -11,32 +11,10 @@
 </p>
 <h2>A Ruby-y About Me...</h2>
 
-```java
-package me.Programmer.Eugene;
-
-import HumanBeings.TheGoodOnes.EugeneFelix;
-import java.util.HashMap;
-
-public class Me {
-    private String Name, favQuote;
-    super();
-    this.Name = Name;
-    this.faveQuote = favQuote;
-}
-public class About extends Me {
-
-    public static void main(String[] args) {
-    String Name = "Eugene Felix";
-    boolean amIAnyGood = True;
-    byte experience = 2;
-    String[] knownLanguages = ["C", "Java", "C++", "Ruby", "Python", "Haskell", "APL", "Javascript","PHP", "Go", "R"];
-    String[] miscSkills = ["Rails", "Git", "NodeJS"];
-    String website = "https://eugenefelix.github.io/";
-    String favQuote = "Two things awe me most. The starry sky above me and the moral law within me.";
-    String favQuoteAuthor = "Immanuel Kant";
-
-    }
-}
+```ruby
+#!milky_way/solar_system/earth
+module Eugene_Felix
+end
 ```
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
