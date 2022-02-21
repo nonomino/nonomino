@@ -87,4 +87,4 @@ public class About extends Me {
 <h6>Bored of my "about me"? Here's something to pique thy interest!</h6>
 <img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
 <h6>That quote didn't amuse you? How about a comic?</h6>
-<img style="align:center;" src="https://xkcd-today.vercel.app"></img>
+<iframe style="align:center;" src="https://xkcd-today.vercel.app"></iframe>
