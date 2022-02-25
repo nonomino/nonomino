@@ -13,7 +13,7 @@
 run
 
 ```sh
-$ npx eugene
+$ npx eugenef
 ```
 
 to see a CLI version of my About Me!
