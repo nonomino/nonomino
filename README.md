@@ -9,6 +9,13 @@
   <a href="https://twitter.com/intent/follow?screen_name=EugeneFelixis&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/EugeneFelixis?label=%40EugeneFelix&style=for-the-badge"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EugeneFelix/EugeneFelix?style=for-the-badge">
 </p>
+<p align="left">Is the CLI your weakness to?
+run
+```sh
+$ npx eugene
+```
+to see a CLI version of my About Me!
+</p>
 <h2>A Ruby-y About Me...</h2>
 
 ```ruby
