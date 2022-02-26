@@ -22,7 +22,14 @@ to see a CLI version of my About Me!
 
 ```ruby
 #!milky_way/solar_system/earth
+
 module Eugene_Felix
+  class Eugene < Eugene_Felix
+    def initialize
+      @name = "Eugene_Felix"
+      @working_now = nil
+    end
+  end
 end
 ```
 <p align="center">
