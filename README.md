@@ -21,7 +21,7 @@ to see a CLI version of my About Me!
 <h2>A Ruby-y About Me...</h2>
 
 ```ruby
-#!milky_way/solar_system/earth
+#!milky_way/solar_system/earth -India
 
 module Eugene_Felix
   class Eugene
@@ -30,6 +30,11 @@ module Eugene_Felix
       @name = "Eugene_Felix"
       @working_now = nil
     end
+
+    def skills
+      'ruby', 'C/C++'
+    end
+
   end
 end
 ```
