@@ -24,7 +24,8 @@ to see a CLI version of my About Me!
 #!milky_way/solar_system/earth
 
 module Eugene_Felix
-  class Eugene < Eugene_Felix
+  class Eugene
+    extend Eugene_Felix
     def initialize
       @name = "Eugene_Felix"
       @working_now = nil
