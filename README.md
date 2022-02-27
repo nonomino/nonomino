@@ -26,6 +26,7 @@ to see a CLI version of my About Me!
 module Eugene_Felix
   class Eugene
     extend Eugene_Felix
+    @@location = 'Bangalore, India'
     def initialize
       @name = "Eugene_Felix"
       @working_now = nil
