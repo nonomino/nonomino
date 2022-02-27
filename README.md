@@ -34,7 +34,9 @@ module Eugene_Felix
     def skills
       'ruby', 'C/C++'
     end
-
+    unless dead
+      puts "Keep learning!"
+    end
   end
 end
 ```
