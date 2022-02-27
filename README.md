@@ -33,7 +33,7 @@ module Eugene_Felix
     end
 
     def skills
-      'ruby', 'C/C++'
+      'ruby', 'C/C++', 'java'
     end
     unless dead
       puts "Keep learning!"
