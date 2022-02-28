@@ -36,7 +36,7 @@ module Eugene_Felix
       return  ['Full Stack Development', 'Data Analysis',
       'System Administration', 'Information security']
     end
-    unless dead
+    unless dead?
       puts "Keep learning!"
     end
   end
@@ -52,7 +52,7 @@ end
 <p align="center">
 <h2>My Cosmos and Chaos...</h2>
 <h3>Environment</h3>
-</p>
+
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
@@ -61,7 +61,6 @@ end
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/eugenefelix)
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
-
 
 <h3>Web Development</h3>
 
