@@ -33,7 +33,8 @@ module Eugene_Felix
     end
 
     def skills
-      'ruby', 'C/C++', 'java'
+      return  ['Full Stack Development', 'Data Analysis',
+      'System Administration', 'Information security']
     end
     unless dead
       puts "Keep learning!"
@@ -41,8 +42,10 @@ module Eugene_Felix
   end
 end
 ```
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"</img>
+ <!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anmol098&theme=gotham"></img-->
+ <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"></img>
 </p>
 
 
@@ -84,7 +87,7 @@ end
 [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
 
 
-<details><Summary><em>More about me...</em></summary>
+<details><summary><em>More about me...</em></summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
 </p>
