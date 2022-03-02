@@ -27,6 +27,7 @@ module Eugene_Felix
   class Eugene
     extend Eugene_Felix
     @@location = 'Bangalore, India'
+
     def initialize
       @name = "Eugene_Felix"
       @working_now = nil
@@ -36,6 +37,7 @@ module Eugene_Felix
       return  ['Full Stack Development', 'Data Analysis',
       'System Administration', 'Information security']
     end
+
     unless dead?
       puts "Keep learning!"
     end
@@ -47,7 +49,10 @@ end
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EugeneFelix&theme=github_dark"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"></img>
 </p>
-
+<p> 👋 there, Welcome to my github!</br>
+• I am professionally nothing now, still learning...</br>
+• I usually work with Data and discovering how to manipulate it...
+</p>
 
 <p align="center">
 <h2>My Cosmos and Chaos...</h2>
