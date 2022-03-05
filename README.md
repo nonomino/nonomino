@@ -49,9 +49,10 @@ end
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EugeneFelix&theme=github_dark"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"></img>
 </p>
-<p> 👋 there, Welcome to my github!</br>
+<p> 👋 there, Welcome to my GitHub!</br>
 • I am professionally nothing now, still learning...</br>
 • I usually work with Data and discovering how to manipulate it...
+• Ask me about cats, The history of Computer Science, historical fiction...
 </p>
 
 <p align="center">
