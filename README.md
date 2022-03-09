@@ -50,9 +50,11 @@ end
  <img src="https://github-readme-stats.vercel.app/api?username=EugeneFelix&show_icons=true&theme=gotham"></img>
 </p>
 <p> 👋 there, Welcome to my GitHub!</br>
-• I am professionally nothing now, still learning...</br>
-• I usually work with Data and discovering how to manipulate it...
-• Ask me about cats, The history of Computer Science, historical fiction...
+
+* I am professionally nothing now, still learning...</br>
+* I usually work with Data and discovering how to manipulate it...
+* Ask me about cats, The history of Computer Science, historical fiction...
+
 </p>
 
 <p align="center">
