@@ -53,8 +53,7 @@ end
 
 * I am professionally nothing now, still learning...</br>
 * I usually work with Data and discovering how to manipulate it...
-* Ask me about cats, The history of Computer Science, historical fiction...
-
+* Ask me about cats, AI and Quantum Computing 8)
 </p>
 
 <p align="center">
