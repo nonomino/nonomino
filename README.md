@@ -58,7 +58,7 @@ end
 
 <p align="center">
 <h2>My Cosmos and Chaos...</h2>
-<h3>Environment</h3>
+<h3>Environment</h3><center>
 
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
@@ -69,7 +69,7 @@ end
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
 
-<h3>Web Development</h3>
+</center><h3>Web Development</h3>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/TR/CSS/#css)
@@ -116,5 +116,3 @@ end
 <img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
 <h6>That quote didn't amuse you? How about a comic?</h6>
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
-<h4 align="center">My Duolingo Stats!</h4>
-<img style="align:center;" src="duo-stats.vercel.app/duo"></img>
