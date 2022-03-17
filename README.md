@@ -35,7 +35,7 @@ module Eugene_Felix
 
     def skills
       return  ['Full Stack Development', 'Data Analysis',
-      'System Administration', 'Information security']
+      'Artificial Intelligence', 'System Administration', 'Information security']
     end
 
     unless dead?
