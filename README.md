@@ -30,6 +30,7 @@ module Eugene_Felix
 
     def initialize
       @name = "Eugene_Felix"
+      @pronouns = ['he', 'him']
       @working_now = nil
     end
 
