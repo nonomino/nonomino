@@ -34,6 +34,10 @@ module Eugene_Felix
       @working_now = nil
     end
 
+<p align="center">
+<img src="https://duo-stats.vercel.app/duo"/>
+</p>
+
     def skills
       return  ['Full Stack Development', 'Data Analysis',
       'Artificial Intelligence', 'System Administration', 'Information security']
@@ -115,3 +119,6 @@ end
 <img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
 <h6>That quote didn't amuse you? How about a comic?</h6>
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
+<p align="center"> My Duolingo Stats! <br/>
+<img src="duo-stats.vercel.app/duo"/>
+</p>
