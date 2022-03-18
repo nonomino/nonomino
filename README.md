@@ -34,10 +34,6 @@ module Eugene_Felix
       @working_now = nil
     end
 
-<p align="center">
-<img src="https://duo-stats.vercel.app/duo"/>
-</p>
-
     def skills
       return  ['Full Stack Development', 'Data Analysis',
       'Artificial Intelligence', 'System Administration', 'Information security']
@@ -121,4 +117,8 @@ end
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 <p align="center"> My Duolingo Stats! <br/>
 <img src="duo-stats.vercel.app/duo"/>
+</p>
+
+<p align="center">
+<img src="https://duo-stats.vercel.app/duo"/>
 </p>
