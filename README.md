@@ -104,12 +104,12 @@ end
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham"</img>
 </p>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
+<img src="https://activity-graph.herokuapp.com/graph?username=nonomino&theme=gotham"></img>
 </p>
 <hr>
 <h5 align="center"><em> Trophies </em></h5>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=eugenefelix&theme=onedark"></img></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nonomino&theme=onedark"></img></p>
 </details>
 <h6>Bored of my "about me"? Here's a quote pique thy interest!</h6>
 <img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
