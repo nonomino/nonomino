@@ -96,12 +96,12 @@ end
 
 <details><summary><em>More about me...</em></summary>
 <h5 align="center"><em> Languages </em></h5>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneFelix&layout=compact&theme=gotham"></img>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonomino&layout=compact&theme=gotham"></img>
 </p>
 <hr>
 <h5 align="center"><em>Statistics & Activity</em></h5>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=EugeneFelix&theme=gotham"</img>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham"</img>
 </p>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=eugenefelix&theme=gotham"></img>
