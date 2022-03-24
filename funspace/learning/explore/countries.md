@@ -10,5 +10,5 @@
 
 ### Day 2, 03/24/22, Thursday: **Sri Lanka.**
 
-+ Also Ceylon, seperated by the Palk Strait and the Gulf of Mannar.
++ Also Ceylon, separated by the Palk Strait and the Gulf of Mannar.
 + 
