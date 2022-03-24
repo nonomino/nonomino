@@ -5,15 +5,4 @@
 + From Tili, the cacique of Picunche.
 + It's long, and does look like a chilly pepper.
 + Capital: Santiago de Chile []
-+ 
-# 
-
-- [ ]
-- [ ]
-- [ ]---
-title: countries
-tags: 
-author: 
-source: 
----
-
++ Forms a part of Patagonia.
