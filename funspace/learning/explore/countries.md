@@ -6,3 +6,8 @@
 + It's long, and does look like a chilly pepper.
 + Capital: Santiago de Chile []
 + Forms a part of Patagonia.
+
+
+### Day 2, 03/24/22, Thursday: **Sri Lanka.**
+
++ 
