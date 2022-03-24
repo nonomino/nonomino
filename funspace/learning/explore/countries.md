@@ -13,4 +13,4 @@
 + Also Ceylon, separated by the Palk Strait and the Gulf of Mannar.
 + 22 million people.
 + BUDDHISM!
-+ Civil War: 83-
++ Civil War: 83-2009: The State vs LTTE.
