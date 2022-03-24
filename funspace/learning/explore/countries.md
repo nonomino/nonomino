@@ -14,3 +14,4 @@
 + 22 million people.
 + BUDDHISM!
 + Civil War: 83-2009: The State vs LTTE.
++ Capital is Sri Jayawardenapura Koote and not Colombo!
