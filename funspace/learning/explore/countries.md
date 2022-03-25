@@ -18,7 +18,7 @@
 
 ### Day 3, 03/25/22, Friday: **Tuvalu.** ###
 
-+ Is in Polynesia. Was Gilbert and Ellice with Kiribati before 1976.
++ Is in Polynesia. Was Gilbert(Kiribati) and Ellice(Tuvalu) with Kiribati before 1976.
 + Funafuti is the capital.
 + Is the least visited country in the world.
 + 
