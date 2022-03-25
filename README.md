@@ -58,9 +58,8 @@ end
 </p>
 
 <p align="center">
-<h2>My Cosmos and Chaos...</h2>
-<h3>Environment</h3><center>
-
+<h2 align="center">... My Cosmos and Chaos ...</h2>
+<h3>My favorites</h3>
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
@@ -70,7 +69,7 @@ end
 [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
 [![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
 
-</center><h3>Web Development</h3>
+<h3>Web Development</h3>
 
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="58" width="58"></img></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="58" width="58" alt="CSS" /></a>
@@ -82,7 +81,7 @@ end
 <a href="https://rubyonrails.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" height="58" width="58"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="58" width="58"/></a>
 
-<h3>AI + ML + Data Science</h3>
+<h3>AI/ML + Data Science</h3>
 
 <a href="https://python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" height="58" width="58"/></a>
 <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="58" width="58"/></a>
