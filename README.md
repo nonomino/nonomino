@@ -27,6 +27,7 @@ module Eugene_Felix
   class Eugene
     extend Eugene_Felix
     @@location = 'Bangalore, India'
+    @@status = 'Student'
 
     def initialize
       @name = "Eugene_Felix"
@@ -49,12 +50,6 @@ end
 <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
-</p>
-<p> 👋 there, Welcome to my GitHub!</br>
-
-* I am professionally nothing now, still learning...</br>
-* I usually work with Data and discovering how to manipulate it...
-* Ask me about cats, AI and Quantum Computing 8)
 </p>
 
 <p align="center">
@@ -106,11 +101,10 @@ end
 </p>
 <hr>
 <h5 align="center"><em> Trophies </em></h5>
-
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nonomino&theme=onedark"></img></p>
 </details>
 <h6>Bored of my "about me"? Here's a quote pique thy interest!</h6>
-<img style="width:100%" src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle">
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle" width="100%" alt="Where's the quote?"/>
 <h6>That quote didn't amuse you? How about a comic?</h6>
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 
