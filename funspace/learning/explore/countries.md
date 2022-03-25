@@ -10,8 +10,15 @@
 
 ### Day 2, 03/24/22, Thursday: **Sri Lanka.** ###
 
-+ Also Ceylon, separated by the Palk Strait and the Gulf of Mannar.
++ Also Ceylon, separated from India by the Palk Strait and the Gulf of Mannar.
 + 22 million people.
 + BUDDHISM!
 + Civil War: 83-2009: The State vs LTTE.
 + Capital is Sri Jayawardenepura Kotte and not Colombo!
+
+### Day 3, 03/25/22, Friday: **Tuvalu.** ###
+
++ Is in Polynesia. Was Gilbert and Ellice with Kiribati before 1976.
++ Funafuti is the capital.
++ Is the least visited country in the world.
++ 
