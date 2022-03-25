@@ -88,7 +88,7 @@ end
 <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="58" width="58"/></a>
 <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="58" width="58"/></a>
 <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="58" width="58"/></a>
-<a href="https://scipy.org/"><img src=" alt="SciPy" /></a>
+<a href="https://scipy.org/"><img src="assets/imgs/scipy.png" alt="SciPy" height="58" width="58"/></a>
 <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="58" width="58"/></a>
 <a href="https://scikit-learn.org/"><img src="" alt="SciKit-learn" /></a>
 <a href="https://plotly.com/python/"><img src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg" alt="Plotly" height="58" width="58"/></a>
