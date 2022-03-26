@@ -6,8 +6,9 @@
 </figure>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
-  <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EugeneFelix/EugeneFelix?style=for-the-badge">
+  <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • 
+  <a href="https://gnu.org/licences/gpl-3.0.en.html"><img alt="GPL3.0 Licence" src="https://img.shields.io/github/license/nonomino/nonomino?style=for-the-badge"></a> •
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nonomino/nonomino?style=for-the-badge">
 </p><hr/>
 
 >Is the CLI your weakness too?
