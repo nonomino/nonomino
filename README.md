@@ -101,9 +101,7 @@ end
 <h5 align="center"><em> Trophies </em></h5>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nonomino&theme=onedark"></img></p>
 </details>
-<h6>Bored of my "about me"? Here's a quote pique thy interest!</h6>
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=default&layout=socrates&font=Gabrielle" width="100%" alt="Where's the quote?"/>
-<h6>That quote didn't amuse you? How about a comic?</h6>
+<h6>Bored of my About Me? How about a comic to amuse you?</h6>
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 
 <p align="center">
