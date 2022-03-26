@@ -109,6 +109,6 @@ end
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 
 <p align="center">
-My Duolingo stats!<br>
+My Duolingo stats! (in progress 🏗️)<br>
 <img src="https://duo-stats.vercel.app/duo"/>
 </p>
