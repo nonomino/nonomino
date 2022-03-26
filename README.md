@@ -64,10 +64,10 @@ end
 <a href="https://opera.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" alt="Opera" height="58" width="58"/></a>
 <h3>Web Development</h3>
 
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="58" width="58"></img></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="58" width="58" alt="CSS" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="58" width="58"></img></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="58" width="58" alt="CSS" /></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="58" height="50"/></a>
-<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="58" width="58"/></a>
+<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="58" width="58"/></a>
 <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="58" width="58"/></a>
 <a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="58" width="58"/></a>
 <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" height="58" width="58"/></a>
