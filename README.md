@@ -8,16 +8,16 @@
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • <img alt="GitHub" src="https://img.shields.io/github/license/EugeneFelix/EugeneFelix?style=for-the-badge"> •
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EugeneFelix/EugeneFelix?style=for-the-badge">
-</p>
-<p align="left">Is the CLI your weakness too?
+</p><hr/>
+
+>Is the CLI your weakness too?
 run
 
 ```sh
 $ npx eugenef
 ```
-
-to see a CLI version of my About Me!
-</p>
+>to see a CLI version of my About Me!
+</p><hr/>
 <h2>A Ruby-y About Me...</h2>
 
 ```ruby
@@ -53,7 +53,9 @@ end
 </p>
 <h2>Find me on...</h2>
 <a href="https://twitter.com/eugenefelixis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" width="45"/></a>
-<a href="https://linkedin.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
+<a href="https://linkedin.com/in/eugenefelix-08975443a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
+<a href="https://stackoverflow.com/users/18450542/eugene"><img src="assets/imgs/stack.png" height="50" width="50"/></a>
+<a href="https://sololearn.com/profile/10522804"><img src="assets/imgs/sololearn.svg" height="50" width="50"/></a>
 <a href="https://behance.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="50" width="50"/></a>
 </p>
 <p align="center">
