@@ -59,7 +59,7 @@ end
 <a href="https://lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" alt="Lua" height="58" width="58"/></a>
 <a href="https://duolingo.com/eugenefelix"><img src="assets/imgs/duo.svg" alt="Duolingo" height="58" width="58"/></a>
 <a href="https://archlinux.org/"><img src="assets/imgs/arch.png" alt="Arch" height="58" width="58"/></a>
-<a href="https://github.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="GIT" height="58" width="58"/></a>
+<a href="https://github.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GIT" height="58" width="58"/></a>
 <a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" height="58" width="58"/></a>
 <a href="https://opera.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" alt="Opera" height="58" width="58"/></a>
 <h3>Web Development</h3>
