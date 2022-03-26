@@ -51,7 +51,11 @@ end
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
 </p>
-
+<h2>Find me on...</h2>
+<a href="https://twitter.com/eugenefelixis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" width="45"/></a>
+<a href="https://linkedin.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
+<a href="https://behance.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="50" width="50"/></a>
+</p>
 <p align="center">
 <h2 align="center">... My Cosmos and Chaos ...</h2>
 <h4>I spend most of my time on...</h4>
@@ -62,8 +66,7 @@ end
 <a href="https://github.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GIT" height="58" width="58"/></a>
 <a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" height="58" width="58"/></a>
 <a href="https://opera.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" alt="Opera" height="58" width="58"/></a>
-<h3>Web Development</h3>
-
+<h3>Web Development</h3><br>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="58" width="58"></img></a>
 <a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="58" width="58" alt="CSS" /></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="58" height="50"/></a>
@@ -77,9 +80,7 @@ end
 <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="58" width="58"/></a>
 <a href="https://rubyonrails.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" height="58" width="58"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="58" width="58"/></a>
-
-<h3>AI/ML + Data Science</h3>
-
+<h3>AI/ML + Data Science</h3><br>
 <a href="https://python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" height="58" width="58"/></a>
 <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="58" width="58"/></a>
 <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="58" width="58"/></a>
@@ -88,7 +89,6 @@ end
 <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="58" width="58"/></a>
 <a href="https://plotly.com/python/"><img src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg" alt="Plotly" height="58" width="58"/></a>
 <a href="https://opengl.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg" alt="OpenGL" height="58" width="58"/></a>
-
 <details><summary><em>More about me...</em></summary>
 <h5 align="center"><em> Languages </em></h5>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonomino&layout=compact&theme=gotham"></img>
@@ -107,7 +107,6 @@ end
 </details>
 <h6>Bored of my About Me? How about a comic to amuse you?</h6>
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
-
 <p align="center">
 My Duolingo stats! (in progress 🏗️)<br>
 <img src="https://duo-stats.vercel.app/duo"/>
