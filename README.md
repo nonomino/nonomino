@@ -54,16 +54,14 @@ end
 
 <p align="center">
 <h2 align="center">... My Cosmos and Chaos ...</h2>
-<h3>My favorites</h3>
-
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org/)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://duolingo.com/eugenefelix)
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/eugenefelix)
-[![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://opera.com)
-
+<h4>I spend most of my time on...</h4>
+<a href="https://www.ruby-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"height="58" width="58"/></a>
+<a href="https://lua.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" alt="Lua" height="58" width="58"/></a>
+<a href="https://duolingo.com/eugenefelix"><img src="assets/imgs/duo.svg" alt="Duolingo" height="58" width="58"/></a>
+<a href="https://archlinux.org/"><img src="assets/imgs/arch.png" alt="Arch" height="58" width="58"/></a>
+<a href="https://github.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="GIT" height="58" width="58"/></a>
+<a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" height="58" width="58"/></a>
+<a href="https://opera.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-plain.svg" alt="Opera" height="58" width="58"/></a>
 <h3>Web Development</h3>
 
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="58" width="58"></img></a>
