@@ -55,7 +55,7 @@ end
 <a href="https://twitter.com/eugenefelixis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" width="45"/></a>
 <a href="https://linkedin.com/in/eugenefelix-08975443a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
 <a href="https://stackoverflow.com/users/18450542/eugene"><img src="assets/imgs/stack.png" height="45" width="45"/></a>
-<a href="https://sololearn.com/profile/10522804"><img src="assets/imgs/sololearn.svg" height="45" width="45"/></a>
+<a href="https://sololearn.com/profile/10522804" target="_blank"><img src="assets/imgs/sololearn.svg" height="45" width="45"/></a>
 <a href="https://behance.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="45" width="45"/></a>
 </p>
 <p align="center">
