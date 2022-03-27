@@ -111,5 +111,5 @@ end
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 <p align="center">
 My Duolingo stats! (in progress 🏗️)<br>
-<img src="https://duo-stats.vercel.app/duo"/>
+<a href="https://xkcd.com/" target="_blank"><img src="https://duo-stats.vercel.app/duo"/></a>
 </p>
