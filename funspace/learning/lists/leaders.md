@@ -6,3 +6,6 @@
 4. 
 
 #### Europe
+
+1. Switzerland: Federal council (×7).  ...Rotary P/VP.
+2. 
