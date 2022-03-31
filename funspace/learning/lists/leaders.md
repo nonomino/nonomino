@@ -6,3 +6,7 @@
 4. 
 
 #### Europe
+
+1. Switzerland: Federal Assembly (×7) ...Rotatory P/VP
+2. Spain: Pedro Sanchéz
+3. 
