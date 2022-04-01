@@ -58,7 +58,7 @@ end
 <a href="https://stackoverflow.com/users/18450542/eugene"><img src="assets/imgs/stack.png" height="45" width="45"/></a>
 <a href="https://dev.to/nonomino"><img src="assets/imgs/devto.svg" height="45" width="45"/></a>
 <a href="https://sololearn.com/profile/10522804" target="_blank"><img src="assets/imgs/sololearn.svg" height="45" width="45"/></a>
-<a href="https://behance.net/etapugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="45" width="45"/></a>
+<a href="https://behance.net/nonomino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="45" width="45"/></a>
 </p>
 <p align="center">
 <h2 align="center">... My Cosmos and Chaos ...</h2>
