@@ -18,7 +18,14 @@
 
 ### Day 3, 03/25/22, Friday: **Tuvalu.** ###
 
++ Is mostly a coral atoll.
 + Is in Polynesia. Was Gilbert(Kiribati) and Ellice(Tuvalu) with Kiribati before 1976.
 + Funafuti is the capital.
 + Is the least visited country in the world.
+
+### Day 4, 03/26/22, Saturday: **The Swiss Cobfederation** ###
+
++ IS NOT a part of the EU.
++ Has no capital, cities Bern, Generva, Zürich, Basel.
++ Languages: GE, FR, IT, RMNSH.
 + 
