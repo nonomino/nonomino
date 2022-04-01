@@ -28,4 +28,4 @@
 + IS NOT a part of the EU.
 + Has no capital, cities Bern, Generva, Zürich, Basel.
 + Languages: GE, FR, IT, RMNSH.
-+ 
++ Was part of the Helvetic Republic, under the Ancien Régime.
