@@ -113,6 +113,5 @@ end
 <img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
 <p align="center">
 My Duolingo stats! (in progress 🏗️)<br>
-<a href="https://duolingo
-com/eugenefelix.com/" target="_blank"><img src="https://duo-stats.vercel.app/duo" alt="Mission failure! 😱 Reload! Reload!"/></a>
+<a href="https://duolingo.com/EugeneFelix/" target="_blank"><img src="https://duo-stats.vercel.app/duo" alt="Mission failure! 😱 Reload! Reload!"/></a>
 </p>
