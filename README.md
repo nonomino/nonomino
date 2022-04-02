@@ -114,5 +114,5 @@ end
 <p align="center">
 My Duolingo stats! (in progress 🏗️)<br>
 <a href="https://duolingo
-com/eugenefelix.com/" target="_blank"><img src="https://duo-stats.vercel.app/duo"/></a>
+com/eugenefelix.com/" target="_blank"><img src="https://duo-stats.vercel.app/duo" alt="Mission failure! 😱 Reload! Reload!"/></a>
 </p>
