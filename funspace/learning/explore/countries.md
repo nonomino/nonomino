@@ -30,3 +30,5 @@
 + Languages: GE, FR, IT, RMNSH.
 + Was part of the Helvetic Republic, under the Ancien Régime.
 + Uses the Swiss Franc (CHF -> $1.08)
+
+### Day 5, 03/27/2022, Sunday: **Phillipines**
