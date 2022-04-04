@@ -38,3 +38,26 @@
     And cradled fair sons on her faithful breast,
     And serves her household in fruitful pride,
     And worships the gods at her husband's side.
+
+2. The Pardah Nashin
+
+        HER life is a revolving dream
+        Of languid and sequestered ease;
+        Her girdles and her fillets gleam
+        Like changing fires on sunset seas;
+        Her raiment is like morning mist,
+        Shot opal, gold and amethyst.
+
+        From thieving light of eyes impure,
+        From coveting sun or wind's caress,
+        Her days are guarded and secure
+        Behind her carven lattices,
+        Like jewels in a turbaned crest,
+        Like secrets in a lover's breast.
+
+        But though no hand unsanctioned dares
+        Unveil the mysteries of her grace,
+        Time lifts the curtain unawares,
+        And Sorrow looks into her face . . .
+        Who shall prevent the subtle years,
+        Or shield a woman's eyes from tears? 
