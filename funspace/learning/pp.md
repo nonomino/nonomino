@@ -61,3 +61,45 @@
         And Sorrow looks into her face . . .
         Who shall prevent the subtle years,
         Or shield a woman's eyes from tears? 
+
+3. The Cold Within
+
+        Six humans trapped by happenstance
+        In bleak and bitter cold.
+        Each one possessed a stick of wood
+        Or so the story's told.
+
+        Their dying fire in need of logs
+        The first man held his back
+        For of the faces around the fire
+        He noticed one was black.
+
+        The next man looking 'cross the way
+        Saw one not of his church
+        And couldn't bring himself to give
+        The fire his stick of birch.
+
+        The third one sat in tattered clothes
+        He gave his coat a hitch
+        Why should his log be put to use
+        To warm the idle rich?
+
+        The rich man just sat back thought
+        Of the wealth he had in store
+        And how to keep what he had earned
+        From the lazy shiftless poor.
+
+        The black man's face bespoke revenge
+        As the fire passed from his sight
+        For all he saw in his stick of wood
+        Was a chance to spite the white.
+
+        The last man of this forlorn group
+        Did nought except for gain
+        Giving only to those who gave
+        Was how he played the game.
+
+        Their logs held tight in death's still hands
+        Was proof of human sin
+        They did not die from the cold without
+        They died from the cold within.
