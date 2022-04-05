@@ -32,3 +32,8 @@
 + Uses the Swiss Franc (CHF -> $1.08)
 
 ### Day 5, 03/27/2022, Sunday: **Phillipines**
+
++ Mindanao, Luzon and Visayas are the three GeoDevs.
++ Named after Philip II of Spain.
++
++
