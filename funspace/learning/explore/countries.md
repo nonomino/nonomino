@@ -35,5 +35,8 @@
 
 + Mindanao, Luzon and Visayas are the three GeoDevs.
 + Named after Philip II of Spain.
+
+### Day 6, 03/28/2022, Monday: **The United States**
+
 +
 +
