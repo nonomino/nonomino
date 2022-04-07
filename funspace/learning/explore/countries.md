@@ -38,5 +38,8 @@
 
 ### Day 6, 03/28/2022, Monday: **The United States**
 
-+
-+
++ In God We Trust, E Pluribus Unum.
++ ~ 60% white and Christian.
++ No Official Language 
++ Lake superior, is, VeRy SuPeRiOr. The Graveyard of the Great Lakes.
++ Lewis And Clark expedition, 1803-06, by P. Jefferson, along the Missouri.
