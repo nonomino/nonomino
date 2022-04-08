@@ -43,3 +43,10 @@
 + No Official Language 
 + Lake superior, is, VeRy SuPeRiOr. The Graveyard of the Great Lakes.
 + Lewis And Clark expedition, 1803-06, by P. Jefferson, along the Missouri.
+
+### Day 7, 03/29/2022, Tuesday: **Oriental Republic of Uruguay**
+
++ Uruguayans speak Portunhol.
++ ¿Río Uruguay? cf. Guaraní etym.
++ They drink Mate. A lot.
++ 
