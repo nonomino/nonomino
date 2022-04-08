@@ -50,3 +50,9 @@
 + ¿Río Uruguay? cf. Guaraní etym.
 + They drink Mate. A lot.
 + 
+
+### Day 8, 03/30/2022, Wednesday: **Trinidad 
+
++ Trinidad and Tobago, Port of Spain.
++ Part of West Indies, Lesser Antilles.
++ 
