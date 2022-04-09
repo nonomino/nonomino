@@ -51,8 +51,9 @@
 + They drink Mate. A lot.
 + 
 
-### Day 8, 03/30/2022, Wednesday: **Trinidad 
+### Day 8, 03/30/2022, Wednesday: **Trinidad and Tobago**
 
 + Trinidad and Tobago, Port of Spain.
-+ Part of West Indies, Lesser Antilles.
-+ 
++ Part of West Indies, Lesser Antilles and Windward Islands.
++ Capotal Puerto España.
++ Has African, Indian influence.
