@@ -57,3 +57,10 @@
 + Part of West Indies, Lesser Antilles and Windward Islands.
 + Capotal Puerto España.
 + Has African, Indian influence.
++ Hosay celebrates Tzdjah (Ta'zieh), like our Mīlaād?
+
+### Day 9, 03/31/2022, Thursday: **Grenada**
+
++ Capital St. Geprge's, speak Grenadian EN/FR creoles and English.
++ Freddom from Feench 1974. Part of Commonwealth.
++ Granada also city in Grenada, Andalusia, Spain.
