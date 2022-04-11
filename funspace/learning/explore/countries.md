@@ -59,8 +59,9 @@
 + Has African, Indian influence.
 + Hosay celebrates Tzdjah (Ta'zieh), like our Mīlaād?
 
-### Day 9, 03/31/2022, Thursday: **Grenada**
+### Day 9, 03/31/2022, Thursday: **Grenada(CommRe)**
 
-+ Capital St. Geprge's, speak Grenadian EN/FR creoles and English.
-+ Freddom from Feench 1974. Part of Commonwealth.
-+ Granada also city in Grenada, Andalusia, Spain.
++ Capital St. George's, speak Grenadian EN/FR Creole + English.
++ Granada is a city in Granada, Andalusia, Spain
++ Island of Spice.
++ Independent in 1974.
