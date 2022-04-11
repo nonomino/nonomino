@@ -1,13 +1,10 @@
-                        # The Politics of the world #
-                              ## Geopolitics ##
+# The Politics of this world #
 
-                        ##      Asia      ##
+## Asia ##
 
+## Europe ##
 
-                        ##      Europe    ##
+## The Americas ##
 
-
-                        ##  The Americas  ##
-
-
-                        ##       Africa   ##
+## Africa ##
+                  
