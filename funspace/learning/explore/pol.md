@@ -13,7 +13,7 @@
 ### The Uniyed Kingdom(Upa;CM) ###
     + His/Her Majesty's Government.
     + Executive is with the monarch, but with the Privy council.
-    +
+    + 
 
 ## The Americas ##
 
