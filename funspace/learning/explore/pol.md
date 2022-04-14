@@ -13,7 +13,7 @@
 ### The United Kingdom(Upa;CM) ###
     + His/Her Majesty's Government.
     + Executive is with the monarch, but with the advice of the Privy council.
-    + 
+    + Has three Crown Dependencies: Guernsey, Jersey, Isle of Man.
 
 ## The Americas ##
 
