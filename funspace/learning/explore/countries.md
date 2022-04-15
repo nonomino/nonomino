@@ -68,12 +68,12 @@
 
 ### Day 10, 04/01/2022, Friday: **Gônoprojatontrī Bangladesh**
 
-+ 
-+ 
++ Is 90.4% Islamic.
++ Independent from West Pakistan on 03/26/1971. cf. Six point mocement by Mujibur Rehman
 + 
 +
 
-### Dzy 11, 04/02/2022, Saturday: **Mauritius**
+### Day 11, 04/02/2022, Saturday: **Mauritius**
 
 + 
 + 
