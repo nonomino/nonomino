@@ -75,7 +75,7 @@
 
 ### Day 11, 04/02/2022, Saturday: **Mauritius**
 
-+ 
-+ 
++ Is east of Madagascar.
++ Capital City is Port Luis.
 + 
 
