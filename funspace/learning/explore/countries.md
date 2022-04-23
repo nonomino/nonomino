@@ -79,3 +79,8 @@
 + Capital City is Port Luis.
 + 
 
+### Day 12, 04/03/2022, Sunday: Belize
+
++ 
++ 
++ 
