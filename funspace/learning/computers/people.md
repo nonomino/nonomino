@@ -8,3 +8,5 @@
     6. Claude Elwood Shannon (Information Theory, Cryptanalysis).
     7. Vinton Cerf/Bob Kahn (TCP/IP).
     8. Kenneth Lane Thompson/Dennis MacAlistair Ritchie (B, C, *nix)
+    9. Alan Curtis Kay (Smalltalk, OOP, GUI)
+    10. 
