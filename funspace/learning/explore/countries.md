@@ -69,7 +69,7 @@
 ### Day 10, 04/01/2022, Friday: **Gônoprojatontrī Bangladesh**
 
 + Is 90.4% Islamic.
-+ Independent from West Pakistan on 03/26/1971. cf. Six point mocement by Mujibur Rehman
++ Independent from West Pakistan on 03/26/1971. cf. Six point movement by Mujibur Rehman
 + 
 +
 
