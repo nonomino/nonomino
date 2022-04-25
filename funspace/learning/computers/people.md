@@ -2,6 +2,6 @@
 
     1. Brian Fox (BASH).
     2. Tim Berners Lee (THE Web).
-    3. Barabara Liskov.
-    4. Alan Turing.
-    5. 
+    3. Barabara Liskov (Type Theory and more)
+    4. Alan Turing (ENIGMA)
+    5. Hedy Lamarr 
