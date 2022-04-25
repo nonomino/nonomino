@@ -82,5 +82,5 @@
 ### Day 12, 04/03/2022, Sunday: Belize
 
 + Caribbean, Capital Belmopan.
-+ 
-+ 
++ CARICOM, SICA, CELAC.
++ Belize river.
