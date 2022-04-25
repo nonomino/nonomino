@@ -9,4 +9,5 @@
     7. Vinton Cerf/Bob Kahn (TCP/IP).
     8. Kenneth Lane Thompson/Dennis MacAlistair Ritchie (B, C, *nix)
     9. Alan Curtis Kay (Smalltalk, OOP, GUI)
-    10. 
+    10. Bjarne Stroustrup.
+    11. 
