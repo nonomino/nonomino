@@ -87,6 +87,6 @@
 
 ### Day 13, 04/04/2022, Monday: Lubnān
 
-+ From *****lbn**"white"
-+ 
++ From *****lbn** "white", Mount Lebanon.
++ Country of Khalil Gibran. 
 + 
