@@ -22,4 +22,6 @@
 + The 180th Meridian/Antimeridian is the IDL.
 + Erastothemes of Cyrene, 276BC, Libya, Chief Librarian of Library of Alexandria, Did a lot of GeoGraphia.
 + EPSG:3857 is Used by GoogleMaps and OSM.
-+ Coral: 
++ Coral: ANIMALIA. Cnidaria.
++ Atoll: Loopy coral roof.
++ 
