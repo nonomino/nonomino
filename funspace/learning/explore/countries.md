@@ -31,12 +31,12 @@
 + Was part of the Helvetic Republic, under the Ancien Régime.
 + Uses the Swiss Franc (CHF -> $1.08)
 
-### Day 5, 03/27/2022, Sunday: **Phillipines**
+### Day 5, 03/27/2022, Sunday: **Phillipines** ###
 
 + Mindanao, Luzon and Visayas are the three GeoDevs.
 + Named after Philip II of Spain.
 
-### Day 6, 03/28/2022, Monday: **The United States**
+### Day 6, 03/28/2022, Monday: **The United States** ###
 
 + In God We Trust, E Pluribus Unum.
 + ~ 60% white and Christian.
@@ -44,14 +44,14 @@
 + Lake superior, is, VeRy SuPeRiOr. The Graveyard of the Great Lakes.
 + Lewis And Clark expedition, 1803-06, by P. Jefferson, along the Missouri.
 
-### Day 7, 03/29/2022, Tuesday: **Oriental Republic of Uruguay**
+### Day 7, 03/29/2022, Tuesday: **Oriental Republic of Uruguay** ###
 
 + Uruguayans speak Portunhol.
 + ¿Río Uruguay? cf. Guaraní etym.
 + They drink Mate. A lot.
 + 
 
-### Day 8, 03/30/2022, Wednesday: **Trinidad and Tobago**
+### Day 8, 03/30/2022, Wednesday: **Trinidad and Tobago** ###
 
 + Trinidad and Tobago, Port of Spain.
 + Part of West Indies, Lesser Antilles and Windward Islands.
@@ -59,40 +59,45 @@
 + Has African, Indian influence.
 + Hosay celebrates Tzdjah (Ta'zieh), like our Mīlaād?
 
-### Day 9, 03/31/2022, Thursday: **Grenada(CommRe)**
+### Day 9, 03/31/2022, Thursday: **Grenada(CommRe)** ###
 
 + Capital St. George's, speak Grenadian EN/FR Creole + English.
 + Granada is a city in Granada, Andalusia, Spain
 + Island of Spice.
 + Independent in 1974.
 
-### Day 10, 04/01/2022, Friday: **Gônoprojatontrī Bangladesh**
+### Day 10, 04/01/2022, Friday: **Gônoprojatontrī Bangladesh** ###
 
 + Is 90.4% Islamic.
 + Independent from West Pakistan on 03/26/1971. cf. Six point movement by Mujibur Rehman
 + 
 +
 
-### Day 11, 04/02/2022, Saturday: **Mauritius**
+### Day 11, 04/02/2022, Saturday: **Mauritius** ###
 
 + Is east of Madagascar.
 + Capital City is Port Luis.
 + 
 
-### Day 12, 04/03/2022, Sunday: Belize
+### Day 12, 04/03/2022, Sunday: **Belize** ###
 
 + Caribbean, Capital Belmopan.
 + CARICOM, SICA, CELAC.
 + Belize river.
 
-### Day 13, 04/04/2022, Monday: Lubnān
+### Day 13, 04/04/2022, Monday: **Lubnān** ###
 
 + From lbn "white",  Mount Lebanon.
 + Country of Khalil Gibran. 
 + 
 
-### Day 14, 04/05/2022, Tuesday: Mamlukah Saudi Arabia
+### Day 14, 04/05/2022, Tuesday: **Mamlukah Saudi Arabia** ###
 
 + Named after the House of Saud. (Who also own Saudi Aramco).
 + Funny Story: Winston's Hiccup.
++ 
+
+### Day 15, 04/06/2022, Wednesday: **Hashemite Jordan** ###
+
++ Named after ha-Yordān.
 + 
