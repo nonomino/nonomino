@@ -12,10 +12,10 @@
 + Alluvium: loose sand/gravel due to running water.
 + Machair: a dune grassland un Scot/Ireland
 + Lagoon: smaller part of water body seprated by something.
-+ Isthmus: A narrow strip of land connecting two areas seperated by water. EG: Istmo de Panamá.
++ Isthmus: a narrow strip of land connecting two areas seperated by water. EG: Istmo de Panamá.
 + Paeninsula(almost land): The classic definition.
     Largest: Saudi Arabia.
-+ 
++ Acquifer: underground layer of permeable rock.
 
 ## Know This! ##
 
