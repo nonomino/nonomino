@@ -25,4 +25,5 @@
 + Coral: ANIMALIA. Cnidaria(Polyp + Medusa).
 + Atoll: Loopy coral roof.
 + Cay: a flat, sandy island on a coral reef.
-+ Barthymetry: undersea fepth measurement, swath Bartymetry
++ Barthymetry: undersea fepth measurement, swath Barthymetry.
++ 
