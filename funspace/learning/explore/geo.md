@@ -24,4 +24,4 @@
 + EPSG:3857 is Used by GoogleMaps and OSM.
 + Coral: ANIMALIA. Cnidaria(Polyp + Medusa).
 + Atoll: Loopy coral roof.
-+ Cay: a flat island on a coral reef.
++ Cay: a flat, sandy island on a coral reef.
