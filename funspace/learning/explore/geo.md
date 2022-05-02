@@ -10,4 +10,13 @@
 
 ## Glossary/Terminology ##
 
++ Acme: summit, peak.
++ Alluvium: loose sand/gravel due to running water.
++ Machair: a dune grassland un Scot/Ireland
+
+
+## Know This! ##
+
++ The 180th Meridian/Antimeridian is the IDL.
++ Erastothemes of Cyrene, 276BC, Libya, Chief Librarian of Library of Alexandria, Did a lot of GeoGraphia.
 + 
