@@ -87,6 +87,11 @@
 
 ### Day 13, 04/04/2022, Monday: Lubnān
 
-+ From *****lbn** "white", Mount Lebanon.
++ From ***** lbn ** "white", Mount Lebanon.
 + Country of Khalil Gibran. 
++ 
+
+### Day 14, 04/05/2022, Tuesday: Mamlukah Saudi Arabia
+
++ Named after the House of Saud. (Who also own Saudi Aramco).
 + 
