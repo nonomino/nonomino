@@ -100,4 +100,4 @@
 ### Day 15, 04/06/2022, Wednesday: **Hashemite Jordan** ###
 
 + Named after ha-Yordān.
-+ 
++ Yurdann in Arabic.
