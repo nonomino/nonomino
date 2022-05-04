@@ -2,7 +2,7 @@
 ###Before the WWW ###
     * ARPANET, Packet Switching, 1969.
     * ARPANET through the 70s.
-    * 
+    * ICANN manages DNS and IP.
 
 ### The WWW ###
     * With Sir Timothy John Berners-Lee, HTTP-server in Nov, 1989.
