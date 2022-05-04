@@ -49,7 +49,7 @@ end
 ```
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham"</img>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham width="80%" height="80%"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
 </p>
 <h2>Find me on...</h2>
