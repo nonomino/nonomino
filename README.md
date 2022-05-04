@@ -49,7 +49,7 @@ end
 ```
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham"</img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
 </p>
 <h2>Find me on...</h2>
@@ -100,7 +100,7 @@ end
 <hr>
 <h5 align="center"><em>Statistics & Activity</em></h5>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham"</img>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
 </p>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=nonomino&theme=gotham"></img>
