@@ -101,3 +101,8 @@
 
 + Named after ha-Yordān.
 + Yurdann in Arabic.
+
+### Day 16, 04/07/2022, Thursday: **Aotearoa** ###
+
++ People are called Kiwi, from the bird Kiwi, its national symbol.
++ Named after Zeeland in the Netherlands.
