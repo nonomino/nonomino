@@ -106,3 +106,8 @@
 
 + People are called Kiwi, from the bird Kiwi, its national symbol.
 + Named after Zeeland in the Netherlands.
+
+### Day 17, 04/08/2022, Friday: **Kenya** ###
+
++ 
++ 
