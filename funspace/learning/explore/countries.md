@@ -109,5 +109,5 @@
 
 ### Day 17, 04/08/2022, Friday: **Kenya** ###
 
-+ 
++ Named after Mount Kenya, second highest in Africa after Mt. Kilimanjaro.
 + 
