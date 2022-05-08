@@ -110,4 +110,10 @@
 ### Day 17, 04/08/2022, Friday: **Kenya** ###
 
 + Named after Mount Kenya, second highest in Africa after Mt. Kilimanjaro.
++ Uses the Shilling.
++ Nairobi: Place of cool waters, Nairobi river.
+
+### Day 18, 04/09/2p22, Saturday: **Commonwealth of Australia** ###
+
++ 
 + 
