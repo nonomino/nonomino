@@ -113,7 +113,13 @@
 + Uses the Shilling.
 + Nairobi: Place of cool waters, Nairobi river.
 
-### Day 18, 04/09/2p22, Saturday: **Commonwealth of Australia** ###
+### Day 18, 04/09/2022, Saturday: **Commonwealth of Australia** ###
 
++ From Terra Australis.
 + 
+
+### Day 19, 04/10/2022, Sunday: **Niue** ###
+
++ Capital Alofi. Not part of UN, but New Zealand dependent.
++ Dark sky nation, no light pollution.
 + 
