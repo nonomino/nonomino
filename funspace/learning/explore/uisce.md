@@ -8,8 +8,11 @@
     5. Arctic (Smallest).
 
 #### The Pelagic Zone ####
-    1.Epipelagic.
+    1.Epipelagic (Photic, sunlight).
     2. Mesopelagic.
     3. Bathypelagic.
     4. Abyssopelagic.
     5. Hadopelagic (from "Hades")
+
+#### ####
+
