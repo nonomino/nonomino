@@ -127,3 +127,7 @@
 + Capital Alofi. Not part of UN, but New Zealand dependent.
 + Dark sky nation, no light pollution.
 + 
+
+### Day 20, 04/11/2022, Monday: **Portugal** ##€
+
++ 
