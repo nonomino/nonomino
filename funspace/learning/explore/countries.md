@@ -118,6 +118,7 @@
 + From Terra Australis.
 + Aboriginals(one of the oldest): Pama-Nyungan languages, Play the didgeridoo...
 + Tasmania seperated by the Bass strait.
++ 
 
 ### Day 19, 04/10/2022, Sunday: **Niue** ###
 
