@@ -116,7 +116,7 @@
 ### Day 18, 04/09/2022, Saturday: **Commonwealth of Australia** ###
 
 + From Terra Australis.
-+ 
++ Aboriginals: Pama-Nyungan languages, Play the didgeridoo...
 
 ### Day 19, 04/10/2022, Sunday: **Niue** ###
 
