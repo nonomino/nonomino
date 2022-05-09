@@ -77,6 +77,8 @@
 
 + Is east of Madagascar.
 + Capital City is Port Luis.
++ Home of the Dodo.
++ Named after Maurice of Orange.
 + 
 
 ### Day 12, 04/03/2022, Sunday: **Belize** ###
