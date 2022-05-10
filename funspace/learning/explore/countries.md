@@ -132,4 +132,6 @@
 
 + Capital Port Vila.
 + Highest linguistic density. 138/0.3m. EN, FR and Bislama are official.
-+ 83 Islands.
++ 83 Islands. Population 307,000.
++ Vanua + tu: Independent standing Land.
+
