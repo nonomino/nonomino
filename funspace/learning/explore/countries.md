@@ -128,6 +128,8 @@
 + Dark sky nation, no light pollution.
 + 
 
-### Day 20, 04/11/2022, Monday: **Portugal** ##€
+### Day 20, 04/11/2022, Monday: **Vanuatu** ###
 
-+ 
++ Capital Port Vila.
++ Highest linguistic density. 138/0.3m. EN, FR and Bislama are official.
++ 83 Islands.
