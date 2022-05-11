@@ -97,7 +97,8 @@
 
 + Named after the House of Saud. (Who also own Saudi Aramco).
 + Funny Story: Winston's Hiccup.
-+ 
++ Gro: Harrats, Wadis(temp. rivers), 
++ Mecca and Madina are in Hejāz.
 
 ### Day 15, 04/06/2022, Wednesday: **Hashemite Jordan** ###
 
