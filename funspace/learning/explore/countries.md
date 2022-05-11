@@ -126,7 +126,7 @@
 
 + Capital Alofi. Not part of UN, but New Zealand dependent.
 + Dark sky nation, no light pollution.
-+ 
++ Population 1,600. 261 sq. km.
 
 ### Day 20, 04/11/2022, Monday: **Vanuatu** ###
 
