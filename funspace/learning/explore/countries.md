@@ -136,3 +136,9 @@
 + 83 Islands. Population 307,000.
 + Vanua + tu: Independent standing Land.
 
+
+### Day 21, 04/12/2022, Tuesday: ###
+
++ 
++ 
+
