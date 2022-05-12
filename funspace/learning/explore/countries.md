@@ -137,8 +137,8 @@
 + Vanua + tu: Independent standing Land.
 
 
-### Day 21, 04/12/2022, Tuesday: ###
+### Day 21, 04/12/2022, Tuesday: **Kiribati** ###
 
-+ 
++ From Gilberts Islands.
 + 
 
