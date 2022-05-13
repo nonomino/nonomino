@@ -71,7 +71,7 @@
 + Is 90.4% Islamic.
 + Independent from West Pakistan on 03/26/1971. cf. Six point movement by Mujibur Rehman
 + 
-+
++ 
 
 ### Day 11, 04/02/2022, Saturday: **Mauritius** ###
 
