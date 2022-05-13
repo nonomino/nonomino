@@ -140,5 +140,4 @@
 ### Day 21, 04/12/2022, Tuesday: **Kiribati** ###
 
 + From Gilberts Islands.
-+ 
-
++ IDL; First new day and Earliest New Year.
