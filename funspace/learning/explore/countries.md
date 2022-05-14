@@ -141,3 +141,15 @@
 
 + From Gilberts Islands.
 + IDL; First new day and Earliest New Year.
+
+### Day 22, 04/13/2022, Wednesday: ###
+
++ 
++ 
+
+### Day 23, 04/14/2022, Thursday: ###
+
++ 
++ 
+
+
