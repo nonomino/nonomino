@@ -148,7 +148,7 @@
 + Has been in the hands of Spain, Germany, Japan and US until '94.
 + In Compact of Free Association with the US.
 
-### Day 23, 04/14/2022, Thursday: ###
+### Day 23, 04/14/2022, Thursday: **Thailand** ###
 
 + 
 + 
