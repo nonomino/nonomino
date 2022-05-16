@@ -150,7 +150,7 @@
 
 ### Day 23, 04/14/2022, Thursday: **Thailand** ###
 
-+ 
++ Called Siam, 
 + 
 
 
