@@ -1,5 +1,3 @@
-## A country a day, keeps the travel blues away!! ##
-
 ### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 + From Tili, the cacique of Picunche.
