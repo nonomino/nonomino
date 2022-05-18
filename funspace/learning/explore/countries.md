@@ -149,6 +149,6 @@
 ### Day 23, 04/14/2022, Thursday: **Thailand** ###
 
 + Called Siam, Capital Bangkok.
-+ 
-
++ King Vajiralongkorn, Const. Mon., has over 20 constitutions.
++ Was ruled by Military for almost 50% of the time since 1932.
 
