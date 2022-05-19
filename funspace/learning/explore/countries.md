@@ -157,4 +157,4 @@
 
 + Largest exporter of natural gas and emitter of CO~2
 + Al Jazīra is Qatarī. (Jazeera -> Peninsula)
-+ 
++ Ruled by l-Thāni's.
