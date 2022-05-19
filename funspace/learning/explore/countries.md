@@ -156,4 +156,5 @@
 ### Day 24, 04/15/2022, Fridzy: **Qatar** ###
 
 + Largest exporter of natural gas and emitter of CO~2
++ Al Jazīra is Qatarī. (Jazeera -> Peninsula)
 + 
