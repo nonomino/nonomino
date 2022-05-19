@@ -152,3 +152,8 @@
 + King Vajiralongkorn, Const. Mon., has over 20 constitutions.
 + Was ruled by Military for almost 50% of the time since 1932.
 
+
+### Day 24, 04/15/2022, Fridzy: **Qatar** ###
+
++ Largest exporter of natural gas and emitter of CO~2
++ 
