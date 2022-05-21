@@ -162,6 +162,12 @@
 
 ### Day 25, 04/16/2022, Saturday: **Kuwait** ###
 
++ Ruled by l-Sabah, semi-const. monarchy.
++ Problems with Iraq, Oil too.
++ 
+
+### Day 26, 04/17,2022, Sunday: **Oman** ###
+
 + 
 + 
 + 
