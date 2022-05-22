@@ -166,7 +166,14 @@
 + Problems with Iraq, Oil too.
 + 
 
-### Day 26, 04/17,2022, Sunday: **Oman** ###
+### Day 26, 04/17/2022, Sunday: **Oman** ###
+
++ 
++ 
++ 
+
+
+### Day 27, 04/18/2022, Monday: **Spain** ###
 
 + 
 + 
