@@ -166,10 +166,11 @@
 + Problems with Iraq, Oil too.
 + 
 
-### Day 26, 04/17/2022, Sunday: **Oman** ###
+### Day 26, 04/17/2022, Sunday: **Sultanat ’Umān** ###
 
-+ 
-+ 
++ Near the Persian Gulf, bordered with Pakistan(Arabian Sea).
++ Abs. Mon., Haitham bin Tāriq, nephew of Qaboos bin Said. (2020). Oldest continuously independent nation.
++ Suḥār, birthplace of Sindbad l-Baḥriyy.
 + 
 
 
