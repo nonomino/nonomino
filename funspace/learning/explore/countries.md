@@ -5,7 +5,6 @@
 + Capital: Santiago de Chile []
 + Forms a part of Patagonia.
 
-
 ### Day 2, 03/24/22, Thursday: **Sri Lanka.** ###
 
 + Also Ceylon, separated from India by the Palk Strait and the Gulf of Mannar.
@@ -29,10 +28,11 @@
 + Was part of the Helvetic Republic, under the Ancien Régime.
 + Uses the Swiss Franc (CHF -> $1.08)
 
-### Day 5, 03/27/2022, Sunday: **Phillipines** ###
+### Day 5, 03/27/2022, Sunday: **Republika ng Pilipinas** ###
 
 + Mindanao, Luzon and Visayas are the three GeoDevs.
 + Named after Philip II of Spain.
++ Filipinos call themselves Pinoy/Pinay (colloquial).
 
 ### Day 6, 03/28/2022, Monday: **The United States** ###
 
