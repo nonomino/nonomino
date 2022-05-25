@@ -89,7 +89,7 @@
 
 + From lbn "white",  Mount Lebanon.
 + Country of Khalil Gibran. 
-+ 
++  
 
 ### Day 14, 04/05/2022, Tuesday: **Mamlukah Saudi Arabia** ###
 
