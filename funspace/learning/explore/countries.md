@@ -174,8 +174,14 @@
 + 
 
 
-### Day 27, 04/18/2022, Monda: **Reini de España** ###
+### Day 27, 04/18/2022, Monday: **Reini de España** ###
 
 + Ummayyad Caliphate and more for 700+years, reconquista in 1492.
 + 
-+  
++ 
+
+### Day 28, 04/19/2022, Tuesday: **Israel** ###
+
++ 
++ 
++ 
