@@ -182,7 +182,7 @@
 
 ### Day 28, 04/19/2022, Tuesday: **Israel** ###
 
-+ National Anthel haTiqva, 1877.
++ National Anthem haTiqva, 1877.
 + 
 + 
 
