@@ -177,7 +177,7 @@
 ### Day 27, 04/18/2022, Monday: **Reino de España** ###
 
 + Ummayyad Caliphate and more for 700+years, reconquista in 1492.
-+ UniConsParMon. 
++ UniConsParMon. PSOE Sanchéz. 
 +   
 
 ### Day 28, 04/19/2022, Tuesday: **Israel** ###
