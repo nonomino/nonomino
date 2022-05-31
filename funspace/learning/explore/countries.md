@@ -1,4 +1,4 @@
-### Day 1, 03/23/22, Wednesday: **Chile.** ###
+G### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 + From Tili, the cacique of Picunche.
 + It's long, and does look like a chilly pepper.
@@ -183,7 +183,7 @@
 ### Day 28, 04/19/2022, Tuesday: **Israel** ###
 
 + National Anthem haTiqva, 1877.
-+ 
++ Tel Aviv, 
 + 
 
 
