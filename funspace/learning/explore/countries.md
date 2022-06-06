@@ -1,4 +1,4 @@
-G### Day 1, 03/23/22, Wednesday: **Chile.** ###
+### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 + From Tili, the cacique of Picunche.
 + It's long, and does look like a chilly pepper.
@@ -195,6 +195,6 @@ G### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 30, 04/21/2022, Thursday: **Indonesia** ###
 
-+ 
++ Largest muslim nation (86.70%).
 + 
 + 
