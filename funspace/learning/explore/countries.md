@@ -196,5 +196,5 @@
 ### Day 30, 04/21/2022, Thursday: **Indonesia** ###
 
 + Largest muslim nation (86.70%).
-+ 
++ Javanese largest ethnic group.
 + 
