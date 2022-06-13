@@ -190,7 +190,7 @@
 ### Day 29, 04/20/2022, Wednesday: **Argentina** ###
 
 + Largest spanish speaking country.
-+ 
++ Meaning Made of Silver (It.)
 + 
 
 ### Day 30, 04/21/2022, Thursday: **Indonesia** ###
