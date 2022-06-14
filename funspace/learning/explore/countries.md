@@ -198,3 +198,9 @@
 + Largest muslim nation (86.70%).
 + Javanese largest ethnic group.
 + 
+
+### Day 31, 04/22/2022, Friday: **Colombia**
+
++ 
++ 
++ 
