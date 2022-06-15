@@ -201,6 +201,6 @@
 
 ### Day 31, 04/22/2022, Friday: **Colombia**
 
-+ 
++ 99% Spanish, 65 other languages.
 + 
 + 
