@@ -208,5 +208,5 @@
 ### Day 32, 04/23/2022, Saturday: **Eswatini**
 
 + Formerly Swaziland.
-+ 
++ Ngwenyama, monarch Mswati III.
 + 
