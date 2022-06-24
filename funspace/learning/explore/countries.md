@@ -204,3 +204,9 @@
 + 99% Spanish, 65 other languages.
 + Currency pesos. 
 + 
+
+### Day 32, 04/23/2022, Saturday: **Eswatini**
+
++ Formerly Swaziland.
++ 
++ 
