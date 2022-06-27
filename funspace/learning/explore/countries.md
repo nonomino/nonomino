@@ -1,4 +1,4 @@
-### Day 1, 03/23/22, Wednesday: **Chile.** ###
+i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 + From Tili, the cacique of Picunche.
 + It's long, and does look like a chilly pepper.
@@ -212,6 +212,12 @@
 + 
 
 ### Day 33, 04/24/2022, Sunday: **Lesotho**
+
++ 
++ 
++ 
+
+### Day 34, 04/25/2022, Monday: **South Africa**
 
 + 
 + 
