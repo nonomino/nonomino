@@ -213,7 +213,7 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 33, 04/24/2022, Sunday: **Lesotho**
 
-+ 
++ Language Sotho, Capital Maseru.
 + 
 + 
 
