@@ -213,8 +213,8 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 33, 04/24/2022, Sunday: **Lesotho**
 
-+ Language Sotho, Capital Maseru.
-+ 
++ Language Sotho, Capital Maseru, people called Mosotho/Basotho.
++ UniConsParMon.
 + 
 
 ### Day 34, 04/25/2022, Monday: **South Africa**
