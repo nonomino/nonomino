@@ -219,6 +219,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 34, 04/25/2022, Monday: **South Africa**
 
-+ 
++ Capital 
 + 
 + 
