@@ -217,9 +217,9 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + UniConsParMon.
 + 
 
-### Day 34, 04/25/2022, Monday: **South Africa**
+### Day 34, 04/25/2022, Monday: **South Africa (RSA)**
 
-+ Capital Johannesburg.
++ 3 Capitals: Pretoria, Cape Town, Bloemfontein.
 + 
 + 
 
