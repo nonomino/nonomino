@@ -228,3 +228,9 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + Capital Algiers.
 + Speak Maghrebi Darja Arabic.
 + 
+
+### Day 36, 04/27/2022, Wednesday: **Burundi**
+
++ 
++ 
++
