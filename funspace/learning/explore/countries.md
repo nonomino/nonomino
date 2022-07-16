@@ -231,6 +231,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 36, 04/27/2022, Wednesday: **Burundi**
 
-+ 
++ Capital Gitega.
 + 
 +
