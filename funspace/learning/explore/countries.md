@@ -237,6 +237,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 37, 04/28/2022, Thursday: **Brunei**
 
-+ 
++ Capital Bandar Seri Begawan.
 + 
 + 
