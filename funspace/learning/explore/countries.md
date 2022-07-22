@@ -243,6 +243,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 37, 04/29/2022, Friday: **Gabon**
 
-+ 
++ Capital Libreville.
 + 
 + 
