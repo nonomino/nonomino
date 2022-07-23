@@ -246,3 +246,9 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + Capital Libreville.
 + Part of the AEF.
 + 
+
+### Day 38, 04/30/2022, Saturday: **Canada**
+
++ 
++ 
++ 
