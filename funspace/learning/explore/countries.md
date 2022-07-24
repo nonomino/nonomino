@@ -249,6 +249,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 38, 04/30/2022, Saturday: **Canada**
 
-+ 
++ Capital Ottawa.
 + 
 + 
