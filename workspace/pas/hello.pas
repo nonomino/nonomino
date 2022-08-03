@@ -3,7 +3,7 @@ uses crt;
 var a, b, c, s, i, n, res: Integer;
 const PI = 3.14;
 begin
-  (*This is a comment*)
+  (*https://wiki.freepascal.org/*)
   writeln('Hello There...');
   readln(a, b, c);
   s := a + b + c;
