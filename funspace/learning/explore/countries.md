@@ -252,3 +252,9 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + Capital Ottawa, Canada from Iroquoian "Kanata".
 + Francosphere.
 + 
+
+### Day 39, 05/01/2022, Sunday: **South Korea**
+
++ 
++ 
++ 
