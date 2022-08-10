@@ -255,6 +255,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 39, 05/01/2022, Sunday: **South Korea**
 
-+ 
++ Capital Seoul.
 + 
 + 
