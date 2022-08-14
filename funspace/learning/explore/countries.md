@@ -258,3 +258,9 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + Capital Seoul, fifth largest urban conglomoration.
 + Korean War 1950-53, then US/UN intervention.
 + 
+
+### Day 40, 05/02/2022, Monday: **France** 
+
++ 
++ 
++ 
