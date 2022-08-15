@@ -261,6 +261,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 40, 05/02/2022, Monday: **France** 
 
-+ 
++ Capital Paris.
 + 
 + 
