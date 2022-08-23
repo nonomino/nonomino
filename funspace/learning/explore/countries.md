@@ -265,7 +265,7 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 + Frank "free".
 + 
 
-### Day 41, 05/03/2022, Tuesday: 
+### Day 41, 05/03/2022, Tuesday: **Italy**
 
 + 
 + 
