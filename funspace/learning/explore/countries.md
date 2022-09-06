@@ -267,6 +267,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 41, 05/03/2022, Tuesday: **Italy**
 
-+ 
++ Capital Rome, Islands Sicily
 + 
 + 
