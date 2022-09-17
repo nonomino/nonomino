@@ -273,6 +273,6 @@ i### Day 1, 03/23/22, Wednesday: **Chile.** ###
 
 ### Day 42 05/04/2022, Wednesday: **Uzbekistan**
 
-+ 
++ Capital Samarkand.
 + 
 + 
