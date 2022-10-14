@@ -37,8 +37,8 @@ module Eugene_Felix
     end
 
     def skills
-      return  ['Full Stack Development', 'Data Analysis',
-      'Artificial Intelligence', 'System Administration', 'Information security']
+      return  ['DSA/OOP/DBMS', 'Back-end Development', 'Data Analysis',
+                'UNIX System Administration']
     end
 
     unless dead?
