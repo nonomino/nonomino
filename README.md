@@ -52,7 +52,7 @@ end
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham" width="90%" height="90%"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
 </p>
-<h2>Find me on...</h2>
+<h2>You can find me loitering around</h2>
 <a href="https://twitter.com/eugenefelixis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" width="45"/></a>
 <a href="https://linkedin.com/in/nonomino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
 <a href="https://stackoverflow.com/users/18450542/eugene"><img src="assets/imgs/stack.png" height="45" width="45"/></a>
