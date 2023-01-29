@@ -1,10 +1,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Greetings%2C+Fellow+human!"></p>
 <p align="center">
-<figure>
-<img src="assets/imgs/banner.jpg"></p>
-</figure>
-<p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • 
   <a href="https://wakatime.com/@3e03e461-2ab7-4b72-95ac-c782b496b386"><img src="https://wakatime.com/badge/user/3e03e461-2ab7-4b72-95ac-c782b496b386.svg" alt="Total time coded since Feb 20 2022" /></a>
