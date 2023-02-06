@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ariel&color=%2338D7F7&center=true&lines=Greetings%2C+Fellow+human!"></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fondamento&size=28&duration=3000&pause=1000&color=C3943C&center=true&vCenter=true&width=435&lines=Greetings+%F0%9F%91%8B+Fellow+Human!"></p>
 <p align="center">
   <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
   <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • 
@@ -86,15 +86,5 @@ end
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
 </p>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=nonomino&theme=gotham"></img>
-</p>
-<hr>
-<h5 align="center"><em> Trophies </em></h5>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=nonomino&theme=onedark"></img></p>
-</details>
-<h6>Bored of my About Me? How about a comic to amuse you?</h6>
-<img style="align:center;" src="https://xkcd-today.vercel.app/comic"></img>
-<p align="center">
-My Duolingo stats! (in progress 🏗️)<br>
-<a href="https://duolingo.com/EugeneFelix/" target="_blank"><img src="https://duo-stats.vercel.app/duo" alt="Mission failure! 😱 Reload! Reload!"/></a>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nonomino&theme=gotham"></img>
 </p>
