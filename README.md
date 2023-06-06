@@ -5,15 +5,8 @@
   <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • 
   <a href="https://wakatime.com/@3e03e461-2ab7-4b72-95ac-c782b496b386"><img src="https://wakatime.com/badge/user/3e03e461-2ab7-4b72-95ac-c782b496b386.svg" alt="Total time coded since Feb 20 2022" /></a>
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nonomino/nonomino?style=for-the-badge">
-</p><hr/>
+</p>
 
->Is the CLI your weakness too?
-run
-
-```sh
-$ npx eugenef
-```
->to see a CLI version of my About Me!
 </p><hr/>
 <h2>A Ruby-y About Me...</h2>
 
@@ -48,33 +41,6 @@ end
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham" width="90%" height="90%"></img>
  <img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
 </p>
-<h2>You can find me loitering around</h2>
-<a href="https://twitter.com/eugenefelixis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="45" width="45"/></a>
-<a href="https://linkedin.com/in/nonomino"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" width="45"/></a>
-<a href="https://stackoverflow.com/users/18450542/eugene"><img src="assets/imgs/stack.png" height="45" width="45"/></a>
-<a href="https://leetcode.com/nonomino"><img src="assets/imgs/leetcode.png" height="45" width="45"/></a>
-<a href="https://dev.to/nonomino"><img src="assets/imgs/devto.svg" height="45" width="45"/></a>
-<a href="https://sololearn.com/profile/10522804" target="_blank"><img src="assets/imgs/sololearn.svg" height="45" width="45"/></a>
-</p>
-<p align="center">
-<h2 align="center">... My Cosmos and Chaos ...</h2>
-<h4>I spend most of my time on...</h4>
-<a href="https://www.ruby-lang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" alt="Ruby"height="58" width="58"/></a>
-<a href="https://duolingo.com/eugenefelix"><img src="assets/imgs/duo.svg" alt="Duolingo" height="58" width="58"/></a>
-<a href="https://archlinux.org/"><img src="assets/imgs/arch.png" alt="Arch" height="58" width="58"/></a>
-<a href="https://github.com/eugenefelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GIT" height="58" width="58"/></a>
-<a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" alt="Vim" height="58" width="58"/></a>
-<h3>Web Development</h3><br>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="58" width="58"></img></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="58" width="58" alt="CSS" /></a>
-<a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="58" height="50"/></a>
-<a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="58" width="58"/></a>
-<a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" height="58" width="58"/></a>
-<a href="https://php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="58" width="58"/></a>
-<a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="NodeJS" height="58" width="58"/></a>
-<a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL" height="58" width="58"/></a>
-<a href="https://rubyonrails.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" alt="Rails" height="58" width="58"/></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="58" width="58"/></a>
 
 <details><summary><em>More about me...</em></summary>
 <h5 align="center"><em> Languages </em></h5>
