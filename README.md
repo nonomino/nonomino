@@ -8,32 +8,30 @@
 </p>
 
 </p><hr/>
-<h2>A Ruby-y About Me...</h2>
+<h3>A Ruby-y About Me</h3>
 
 ```ruby
 #!milky_way/solar_system/earth -India
 
-module Eugene_Felix
-  class Eugene
-    extend Eugene_Felix
-    @@location = 'Bangalore, India'
-    @@status = 'Student'
-
-    def initialize
-      @name = "Eugene_Felix"
-      @pronouns = ['he', 'him', 'his']
-      @working_now = nil
-    end
+class Nonomino
+	@@location = 'Bangalore, India'
+	@@status = 'Student'
+	
+	def initialize
+		@name = "A. M. Sahil"
+		@username = "nonomino"
+		@pronouns = ['he', 'him', 'his']
+		@working_now = nil
+	end
 
     def skills
-      return  ['DSA/OOP/DBMS', 'Back-end Development', 'Data Analysis',
-                'UNIX System Administration']
-    end
+		return  ['DSA/OOP/DBMS', 'Back-end Development', 'Data Analysis', 
+				 'UNIX System Administration']
+	end
 
-    unless dead?
-      puts "Keep learning!"
-    end
-  end
+	unless dead?
+		puts "Keep learning!"
+	end
 end
 ```
 
@@ -50,7 +48,4 @@ end
 <h5 align="center"><em>Statistics & Activity</em></h5>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nonomino&theme=github_dark"></img>
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=nonomino&theme=gotham"></img>
 </p>
