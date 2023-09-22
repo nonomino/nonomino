@@ -1,13 +1,5 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fondamento&size=28&duration=3000&pause=1000&color=C3943C&center=true&vCenter=true&width=435&lines=Greetings+%F0%9F%91%8B+Fellow+Human!"></p>
-<p align="center">
-  <img src="https://gpvc.arturio.dev/EugeneFelix" alt="profile views"> •  
-  <a href="https://eugenefelix.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a> • 
-  <a href="https://wakatime.com/@3e03e461-2ab7-4b72-95ac-c782b496b386"><img src="https://wakatime.com/badge/user/3e03e461-2ab7-4b72-95ac-c782b496b386.svg" alt="Total time coded since Feb 20 2022" /></a>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nonomino/nonomino?style=for-the-badge">
-</p>
-
-</p><hr/>
 <h3>A Ruby-y About Me</h3>
 
 ```ruby
