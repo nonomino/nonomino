@@ -7,34 +7,43 @@ Also be kind enough to greet my moose!
   <img src="/assets/images/moose.jpg"/>
 </p>
 
+### # About me
+I am a 20-something dev interested in everything, some of them are:
+* Systems programing
+* Deep learning
+* Network programing
+* Devops
+* 
+<p align="center">My formula for greatness:</p>
+
+```ruby
+nonomino.today > nonomino.yesterday
+```
+### # Find me
+* [📬 Mail](mailto:nonomino@null.net)
+
 ### # GitHub summary
 
 <p align="center">
   <img src="/assets/images/summary.svg"/>
-  My formula for greatness:
-  
-```ruby
-nonomino.today > nonomino.yesterday
-```
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nonomino&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=EB5454)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gruvbox&hide_title=true&hide_border=true&rank_icon=percentile&disable_animations=true)](https://https://github-readme-stats.vercel.app/)
 
 </p>
 
-### # Know me
-[![GitHub Streak](https://streak-stats.demolab.com?user=nonomino&theme=ocean-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=EB5454)](https://git.io/streak-stats)
-#### ## Languages
+### # Skills & toolbox 🧰🛠
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="80px" width="80px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50px" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original-wordmark.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="50px" width="50px"/>
 </p>
 
-### # Ping me
-* [📬 Mail](mailto:nonomino@null.net)
-### # Know me better
+### # Setup
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nonomino&theme=gotham" width="90%" height="90%"></img>
-<img src="https://github-readme-stats.vercel.app/api?username=nonomino&show_icons=true&theme=gotham"></img>
-<img src="/assets/images/habits.svg"></img>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" width="50px"/>
+</p>
