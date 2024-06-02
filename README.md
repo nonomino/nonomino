@@ -4,16 +4,15 @@
 Also be kind enough to greet my moose!
 
 <p align="center">
-  <img src="/assets/images/moose.jpg"/>
+  <img src="/assets/images/moose.jpg" height="150" width="200"/>
 </p>
 
 ### # About me
 I am a 20-something dev interested in everything, some of them are:
-* Systems programing
+* Systems programming
 * Deep learning
 * Network programing
 * Devops
-* 
 <p align="center">My formula for greatness:</p>
 
 ```ruby
@@ -46,4 +45,5 @@ nonomino.today > nonomino.yesterday
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" width="50px"/>
+  <p>Find my dotfiles <a href="https://github.com/nonomino/ dotfiles">here</a></p>
 </p>
