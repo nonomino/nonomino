@@ -11,7 +11,7 @@ Also be kind enough to greet my moose!
 I am a 20-something dev interested in everything, some of them are:
 * Systems programming
 * Deep learning
-* Network programing
+* Network programming
 * Devops
 <p align="center">My formula for greatness:</p>
 
@@ -45,5 +45,5 @@ nonomino.today > nonomino.yesterday
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="50px" width="50px"/>
-  <p>Find my dotfiles <a href="https://github.com/nonomino/ dotfiles">here</a></p>
+  <p>Find my dotfiles <a href="https://github.com/nonomino/dotfiles">here</a></p>
 </p>
