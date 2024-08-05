@@ -1,8 +1,9 @@
-name: LLM
+name: ll_metrics
 
 on:
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+    push: {branches: ["main"]}
 
 jobs:
   github-metrics:
